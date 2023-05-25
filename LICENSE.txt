@@ -1,0 +1,5 @@
+Program: ALU Simulator
+Author: Jacob Simons
+Date Published: April 14, 2022
+
+All rights reserved.
